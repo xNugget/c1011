@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nugget\\Desktop\\c101\\konsol\\konsol.csproj": {}
+    "C:\\Users\\Nugget\\Documents\\GitHub\\c1011\\konsol\\konsol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nugget\\Desktop\\c101\\konsol\\konsol.csproj": {
+    "C:\\Users\\Nugget\\Documents\\GitHub\\c1011\\konsol\\konsol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nugget\\Desktop\\c101\\konsol\\konsol.csproj",
+        "projectUniqueName": "C:\\Users\\Nugget\\Documents\\GitHub\\c1011\\konsol\\konsol.csproj",
         "projectName": "konsol",
-        "projectPath": "C:\\Users\\Nugget\\Desktop\\c101\\konsol\\konsol.csproj",
+        "projectPath": "C:\\Users\\Nugget\\Documents\\GitHub\\c1011\\konsol\\konsol.csproj",
         "packagesPath": "C:\\Users\\Nugget\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nugget\\Desktop\\c101\\konsol\\obj\\",
+        "outputPath": "C:\\Users\\Nugget\\Documents\\GitHub\\c1011\\konsol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nugget\\AppData\\Roaming\\NuGet\\NuGet.Config"
