@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\bin\Debug\net6.0\Yeni klasör.exe
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\bin\Debug\net6.0\Yeni klasör.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\bin\Debug\net6.0\Yeni klasör.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\bin\Debug\net6.0\Yeni klasör.dll
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\bin\Debug\net6.0\ref\Yeni klasör.dll
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\bin\Debug\net6.0\Yeni klasör.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\obj\Debug\net6.0\Yeni klasör.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\obj\Debug\net6.0\Yeni klasör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\obj\Debug\net6.0\Yeni klasör.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\obj\Debug\net6.0\Yeni klasör.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\obj\Debug\net6.0\Yeni klasör.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\obj\Debug\net6.0\Yeni klasör.dll
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\obj\Debug\net6.0\ref\Yeni klasör.dll
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\obj\Debug\net6.0\Yeni klasör.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\Yeni klasör\obj\Debug\net6.0\Yeni klasör.genruntimeconfig.cache
