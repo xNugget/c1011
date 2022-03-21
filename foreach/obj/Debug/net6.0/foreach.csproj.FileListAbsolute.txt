@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\bin\Debug\net6.0\foreach.exe
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\bin\Debug\net6.0\foreach.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\bin\Debug\net6.0\foreach.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\bin\Debug\net6.0\foreach.dll
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\bin\Debug\net6.0\ref\foreach.dll
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\bin\Debug\net6.0\foreach.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\obj\Debug\net6.0\foreach.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\obj\Debug\net6.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\obj\Debug\net6.0\foreach.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\obj\Debug\net6.0\foreach.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\obj\Debug\net6.0\foreach.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\obj\Debug\net6.0\foreach.dll
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\obj\Debug\net6.0\ref\foreach.dll
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\obj\Debug\net6.0\foreach.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\foreach\obj\Debug\net6.0\foreach.genruntimeconfig.cache
