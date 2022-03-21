@@ -1,0 +1,15 @@
+C:\Users\Nugget\Desktop\c101\hatalar\bin\Debug\net6.0\hatalar.exe
+C:\Users\Nugget\Desktop\c101\hatalar\bin\Debug\net6.0\hatalar.deps.json
+C:\Users\Nugget\Desktop\c101\hatalar\bin\Debug\net6.0\hatalar.runtimeconfig.json
+C:\Users\Nugget\Desktop\c101\hatalar\bin\Debug\net6.0\hatalar.dll
+C:\Users\Nugget\Desktop\c101\hatalar\bin\Debug\net6.0\ref\hatalar.dll
+C:\Users\Nugget\Desktop\c101\hatalar\bin\Debug\net6.0\hatalar.pdb
+C:\Users\Nugget\Desktop\c101\hatalar\obj\Debug\net6.0\hatalar.csproj.AssemblyReference.cache
+C:\Users\Nugget\Desktop\c101\hatalar\obj\Debug\net6.0\hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Desktop\c101\hatalar\obj\Debug\net6.0\hatalar.AssemblyInfoInputs.cache
+C:\Users\Nugget\Desktop\c101\hatalar\obj\Debug\net6.0\hatalar.AssemblyInfo.cs
+C:\Users\Nugget\Desktop\c101\hatalar\obj\Debug\net6.0\hatalar.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Desktop\c101\hatalar\obj\Debug\net6.0\hatalar.dll
+C:\Users\Nugget\Desktop\c101\hatalar\obj\Debug\net6.0\ref\hatalar.dll
+C:\Users\Nugget\Desktop\c101\hatalar\obj\Debug\net6.0\hatalar.pdb
+C:\Users\Nugget\Desktop\c101\hatalar\obj\Debug\net6.0\hatalar.genruntimeconfig.cache

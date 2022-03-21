@@ -1,0 +1,15 @@
+C:\Users\Nugget\Desktop\c101\tip\bin\Debug\net6.0\tip.exe
+C:\Users\Nugget\Desktop\c101\tip\bin\Debug\net6.0\tip.deps.json
+C:\Users\Nugget\Desktop\c101\tip\bin\Debug\net6.0\tip.runtimeconfig.json
+C:\Users\Nugget\Desktop\c101\tip\bin\Debug\net6.0\tip.dll
+C:\Users\Nugget\Desktop\c101\tip\bin\Debug\net6.0\ref\tip.dll
+C:\Users\Nugget\Desktop\c101\tip\bin\Debug\net6.0\tip.pdb
+C:\Users\Nugget\Desktop\c101\tip\obj\Debug\net6.0\tip.csproj.AssemblyReference.cache
+C:\Users\Nugget\Desktop\c101\tip\obj\Debug\net6.0\tip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Desktop\c101\tip\obj\Debug\net6.0\tip.AssemblyInfoInputs.cache
+C:\Users\Nugget\Desktop\c101\tip\obj\Debug\net6.0\tip.AssemblyInfo.cs
+C:\Users\Nugget\Desktop\c101\tip\obj\Debug\net6.0\tip.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Desktop\c101\tip\obj\Debug\net6.0\tip.dll
+C:\Users\Nugget\Desktop\c101\tip\obj\Debug\net6.0\ref\tip.dll
+C:\Users\Nugget\Desktop\c101\tip\obj\Debug\net6.0\tip.pdb
+C:\Users\Nugget\Desktop\c101\tip\obj\Debug\net6.0\tip.genruntimeconfig.cache
