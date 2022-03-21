@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\bin\Debug\net6.0\forloopdöngü.exe
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\bin\Debug\net6.0\forloopdöngü.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\bin\Debug\net6.0\forloopdöngü.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\bin\Debug\net6.0\forloopdöngü.dll
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\bin\Debug\net6.0\ref\forloopdöngü.dll
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\bin\Debug\net6.0\forloopdöngü.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\obj\Debug\net6.0\forloopdöngü.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\obj\Debug\net6.0\forloopdöngü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\obj\Debug\net6.0\forloopdöngü.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\obj\Debug\net6.0\forloopdöngü.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\obj\Debug\net6.0\forloopdöngü.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\obj\Debug\net6.0\forloopdöngü.dll
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\obj\Debug\net6.0\ref\forloopdöngü.dll
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\obj\Debug\net6.0\forloopdöngü.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\forloopdöngü\obj\Debug\net6.0\forloopdöngü.genruntimeconfig.cache
