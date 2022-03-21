@@ -1,0 +1,15 @@
+C:\Users\Nugget\Desktop\c101\konsol\bin\Debug\net6.0\konsol.exe
+C:\Users\Nugget\Desktop\c101\konsol\bin\Debug\net6.0\konsol.deps.json
+C:\Users\Nugget\Desktop\c101\konsol\bin\Debug\net6.0\konsol.runtimeconfig.json
+C:\Users\Nugget\Desktop\c101\konsol\bin\Debug\net6.0\konsol.dll
+C:\Users\Nugget\Desktop\c101\konsol\bin\Debug\net6.0\ref\konsol.dll
+C:\Users\Nugget\Desktop\c101\konsol\bin\Debug\net6.0\konsol.pdb
+C:\Users\Nugget\Desktop\c101\konsol\obj\Debug\net6.0\konsol.csproj.AssemblyReference.cache
+C:\Users\Nugget\Desktop\c101\konsol\obj\Debug\net6.0\konsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Desktop\c101\konsol\obj\Debug\net6.0\konsol.AssemblyInfoInputs.cache
+C:\Users\Nugget\Desktop\c101\konsol\obj\Debug\net6.0\konsol.AssemblyInfo.cs
+C:\Users\Nugget\Desktop\c101\konsol\obj\Debug\net6.0\konsol.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Desktop\c101\konsol\obj\Debug\net6.0\konsol.dll
+C:\Users\Nugget\Desktop\c101\konsol\obj\Debug\net6.0\ref\konsol.dll
+C:\Users\Nugget\Desktop\c101\konsol\obj\Debug\net6.0\konsol.pdb
+C:\Users\Nugget\Desktop\c101\konsol\obj\Debug\net6.0\konsol.genruntimeconfig.cache

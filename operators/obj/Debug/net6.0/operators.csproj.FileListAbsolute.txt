@@ -1,0 +1,15 @@
+C:\Users\Nugget\Desktop\c101\operators\obj\Debug\net6.0\operators.csproj.AssemblyReference.cache
+C:\Users\Nugget\Desktop\c101\operators\obj\Debug\net6.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Desktop\c101\operators\obj\Debug\net6.0\operators.AssemblyInfoInputs.cache
+C:\Users\Nugget\Desktop\c101\operators\obj\Debug\net6.0\operators.AssemblyInfo.cs
+C:\Users\Nugget\Desktop\c101\operators\obj\Debug\net6.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Desktop\c101\operators\bin\Debug\net6.0\operators.exe
+C:\Users\Nugget\Desktop\c101\operators\bin\Debug\net6.0\operators.deps.json
+C:\Users\Nugget\Desktop\c101\operators\bin\Debug\net6.0\operators.runtimeconfig.json
+C:\Users\Nugget\Desktop\c101\operators\bin\Debug\net6.0\operators.dll
+C:\Users\Nugget\Desktop\c101\operators\bin\Debug\net6.0\ref\operators.dll
+C:\Users\Nugget\Desktop\c101\operators\bin\Debug\net6.0\operators.pdb
+C:\Users\Nugget\Desktop\c101\operators\obj\Debug\net6.0\operators.dll
+C:\Users\Nugget\Desktop\c101\operators\obj\Debug\net6.0\ref\operators.dll
+C:\Users\Nugget\Desktop\c101\operators\obj\Debug\net6.0\operators.pdb
+C:\Users\Nugget\Desktop\c101\operators\obj\Debug\net6.0\operators.genruntimeconfig.cache
