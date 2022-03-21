@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\bin\Debug\net6.0\switchcase.exe
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\bin\Debug\net6.0\switchcase.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\bin\Debug\net6.0\switchcase.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\bin\Debug\net6.0\switchcase.dll
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\bin\Debug\net6.0\ref\switchcase.dll
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\bin\Debug\net6.0\switchcase.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\obj\Debug\net6.0\switchcase.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\obj\Debug\net6.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\obj\Debug\net6.0\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\obj\Debug\net6.0\switchcase.dll
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\obj\Debug\net6.0\ref\switchcase.dll
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\obj\Debug\net6.0\switchcase.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\switchcase\obj\Debug\net6.0\switchcase.genruntimeconfig.cache

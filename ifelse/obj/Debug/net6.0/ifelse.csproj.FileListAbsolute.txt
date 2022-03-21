@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\bin\Debug\net6.0\ifelse.exe
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\bin\Debug\net6.0\ifelse.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\bin\Debug\net6.0\ifelse.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\bin\Debug\net6.0\ifelse.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\bin\Debug\net6.0\ref\ifelse.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\bin\Debug\net6.0\ifelse.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\obj\Debug\net6.0\ifelse.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\obj\Debug\net6.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\obj\Debug\net6.0\ifelse.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\obj\Debug\net6.0\ifelse.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\obj\Debug\net6.0\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\obj\Debug\net6.0\ifelse.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\obj\Debug\net6.0\ref\ifelse.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\obj\Debug\net6.0\ifelse.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\ifelse\obj\Debug\net6.0\ifelse.genruntimeconfig.cache
