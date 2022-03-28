@@ -11,7 +11,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             int[] sayıdizisi = new int[diziuzunlugu];
             for (int i = 0; i < diziuzunlugu; i++)
             {
-                Console.Write("{0}. sayıyı gir : ", i+1);
+                Console.Write("{0} . sayıyı gir : ", i+1);
                 sayıdizisi[i] = int.Parse(Console.ReadLine());
             }
             int toplam = 0 ;
