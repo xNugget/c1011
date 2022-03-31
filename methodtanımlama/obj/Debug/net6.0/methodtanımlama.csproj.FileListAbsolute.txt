@@ -1,0 +1,5 @@
+C:\Users\Nugget\Documents\GitHub\c1011\methodtanımlama\obj\Debug\net6.0\methodtanımlama.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\methodtanımlama\obj\Debug\net6.0\methodtanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\methodtanımlama\obj\Debug\net6.0\methodtanımlama.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\methodtanımlama\obj\Debug\net6.0\methodtanımlama.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\methodtanımlama\obj\Debug\net6.0\methodtanımlama.csproj.CoreCompileInputs.cache
