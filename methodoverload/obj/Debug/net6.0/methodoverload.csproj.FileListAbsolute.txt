@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\bin\Debug\net6.0\methodoverload.exe
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\bin\Debug\net6.0\methodoverload.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\bin\Debug\net6.0\methodoverload.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\bin\Debug\net6.0\methodoverload.dll
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\bin\Debug\net6.0\ref\methodoverload.dll
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\bin\Debug\net6.0\methodoverload.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\obj\Debug\net6.0\methodoverload.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\obj\Debug\net6.0\methodoverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\obj\Debug\net6.0\methodoverload.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\obj\Debug\net6.0\methodoverload.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\obj\Debug\net6.0\methodoverload.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\obj\Debug\net6.0\methodoverload.dll
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\obj\Debug\net6.0\ref\methodoverload.dll
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\obj\Debug\net6.0\methodoverload.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\methodoverload\obj\Debug\net6.0\methodoverload.genruntimeconfig.cache
