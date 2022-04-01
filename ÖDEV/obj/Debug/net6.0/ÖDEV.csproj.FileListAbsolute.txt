@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\bin\Debug\net6.0\ÖDEV.exe
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\bin\Debug\net6.0\ÖDEV.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\bin\Debug\net6.0\ÖDEV.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\bin\Debug\net6.0\ÖDEV.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\bin\Debug\net6.0\ref\ÖDEV.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\bin\Debug\net6.0\ÖDEV.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\obj\Debug\net6.0\ÖDEV.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\obj\Debug\net6.0\ÖDEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\obj\Debug\net6.0\ÖDEV.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\obj\Debug\net6.0\ÖDEV.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\obj\Debug\net6.0\ÖDEV.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\obj\Debug\net6.0\ÖDEV.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\obj\Debug\net6.0\ref\ÖDEV.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\obj\Debug\net6.0\ÖDEV.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\ÖDEV\obj\Debug\net6.0\ÖDEV.genruntimeconfig.cache
