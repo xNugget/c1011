@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net6.0/rekürsif.dll",
+            "program": "${workspaceFolder}/bin/Debug/net6.0/ÖDEV.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
