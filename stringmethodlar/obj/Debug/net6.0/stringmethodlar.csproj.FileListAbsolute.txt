@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\bin\Debug\net6.0\stringmethodlar.exe
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\bin\Debug\net6.0\stringmethodlar.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\bin\Debug\net6.0\stringmethodlar.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\bin\Debug\net6.0\stringmethodlar.dll
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\bin\Debug\net6.0\ref\stringmethodlar.dll
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\bin\Debug\net6.0\stringmethodlar.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\obj\Debug\net6.0\stringmethodlar.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\obj\Debug\net6.0\stringmethodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\obj\Debug\net6.0\stringmethodlar.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\obj\Debug\net6.0\stringmethodlar.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\obj\Debug\net6.0\stringmethodlar.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\obj\Debug\net6.0\stringmethodlar.dll
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\obj\Debug\net6.0\ref\stringmethodlar.dll
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\obj\Debug\net6.0\stringmethodlar.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\stringmethodlar\obj\Debug\net6.0\stringmethodlar.genruntimeconfig.cache
