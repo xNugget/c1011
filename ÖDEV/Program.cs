@@ -50,9 +50,12 @@
 //     Console.WriteLine(elma);
 // }
 Console.WriteLine("4.soru");
+Console.WriteLine("cümle yaz , sana kaç kelime var kaç harf var onu söyleyeceğim anında");
 string cumle = Convert.ToString(Console.ReadLine());
 string[] kelimeler = cumle.Split(" ");
-char[] harfler = cumle.ToCharArray();
-
+// char[] harfler = cumle.ToCharArray();
 Console.WriteLine("{0} kelime var",kelimeler.Length);
-Console.WriteLine("{0} harf var",harfler.Length);
+string[] dizi = cumle.Split(" ");
+
+
+Console.WriteLine("{0} harf var",cumle.Length);
