@@ -38,3 +38,31 @@ Console.WriteLine(degisken.Split(' ')[1]);
 //Substring
 Console.WriteLine(degisken.Substring(4));
 Console.WriteLine(degisken.Substring(4,2));
+
+//cevaplar
+// 10
+// BİR İKİ ÜC
+// bir iki üc
+// bir iki üc dort
+// -1
+// -1
+// -1
+// True
+// False
+// False
+// 4
+// -1
+// 6
+// Merhaba! bir iki üc
+// bir iki üc                           iki
+// bir iki üc***************************iki
+// bir iki üc                                        iki
+// bir iki üc----------------------------------------iki
+// bir iki üc
+// bir iüc
+// ir iki üc
+// bir iki bes
+// birikiüc
+// iki
+// iki üc
+// ik

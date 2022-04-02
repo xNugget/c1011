@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\obj\Debug\net6.0\datetimevemath.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\obj\Debug\net6.0\datetimevemath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\obj\Debug\net6.0\datetimevemath.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\obj\Debug\net6.0\datetimevemath.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\obj\Debug\net6.0\datetimevemath.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\bin\Debug\net6.0\datetimevemath.exe
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\bin\Debug\net6.0\datetimevemath.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\bin\Debug\net6.0\datetimevemath.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\bin\Debug\net6.0\datetimevemath.dll
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\bin\Debug\net6.0\ref\datetimevemath.dll
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\bin\Debug\net6.0\datetimevemath.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\obj\Debug\net6.0\datetimevemath.dll
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\obj\Debug\net6.0\ref\datetimevemath.dll
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\obj\Debug\net6.0\datetimevemath.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\datetimevemath\obj\Debug\net6.0\datetimevemath.genruntimeconfig.cache
