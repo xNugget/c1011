@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\bin\Debug\net6.0\genericc.exe
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\bin\Debug\net6.0\genericc.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\bin\Debug\net6.0\genericc.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\bin\Debug\net6.0\genericc.dll
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\bin\Debug\net6.0\ref\genericc.dll
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\bin\Debug\net6.0\genericc.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\obj\Debug\net6.0\genericc.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\obj\Debug\net6.0\genericc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\obj\Debug\net6.0\genericc.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\obj\Debug\net6.0\genericc.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\obj\Debug\net6.0\genericc.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\obj\Debug\net6.0\genericc.dll
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\obj\Debug\net6.0\ref\genericc.dll
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\obj\Debug\net6.0\genericc.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\genericc\obj\Debug\net6.0\genericc.genruntimeconfig.cache
