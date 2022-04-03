@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\bin\Debug\net6.0\sınıf.exe
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\bin\Debug\net6.0\sınıf.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\bin\Debug\net6.0\sınıf.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\bin\Debug\net6.0\sınıf.dll
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\bin\Debug\net6.0\ref\sınıf.dll
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\bin\Debug\net6.0\sınıf.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\obj\Debug\net6.0\sınıf.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\obj\Debug\net6.0\sınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\obj\Debug\net6.0\sınıf.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\obj\Debug\net6.0\sınıf.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\obj\Debug\net6.0\sınıf.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\obj\Debug\net6.0\sınıf.dll
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\obj\Debug\net6.0\ref\sınıf.dll
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\obj\Debug\net6.0\sınıf.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\sınıf\obj\Debug\net6.0\sınıf.genruntimeconfig.cache
