@@ -18,7 +18,7 @@ namespace Sınıf
             kole1.id = 199;
             kole1.department = "manav";
             kole1.sorgulama();
-            Console.WriteLine("* * * * * * * * * * *");
+            Console.WriteLine("- - - - - - - - -");
 
             kole kole2 = new kole();
             kole2.name = "Fatih";
@@ -26,7 +26,7 @@ namespace Sınıf
             kole2.id = 1905;
             kole2.department = "fussbalspielen";
             kole2.sorgulama();
-            Console.WriteLine("* * * * * * * * * * *");
+            Console.WriteLine("- - - - - - - - -");
 
             Console.ReadLine();
         }
