@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\bin\Debug\net6.0\ÖDEV3 SORU3.exe
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\bin\Debug\net6.0\ÖDEV3 SORU3.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\bin\Debug\net6.0\ÖDEV3 SORU3.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\bin\Debug\net6.0\ÖDEV3 SORU3.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\bin\Debug\net6.0\ref\ÖDEV3 SORU3.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\bin\Debug\net6.0\ÖDEV3 SORU3.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\obj\Debug\net6.0\ÖDEV3 SORU3.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\obj\Debug\net6.0\ÖDEV3 SORU3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\obj\Debug\net6.0\ÖDEV3 SORU3.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\obj\Debug\net6.0\ÖDEV3 SORU3.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\obj\Debug\net6.0\ÖDEV3 SORU3.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\obj\Debug\net6.0\ÖDEV3 SORU3.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\obj\Debug\net6.0\ref\ÖDEV3 SORU3.dll
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\obj\Debug\net6.0\ÖDEV3 SORU3.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\ödev2\ÖDEV3 SORU3\obj\Debug\net6.0\ÖDEV3 SORU3.genruntimeconfig.cache

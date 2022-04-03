@@ -9,10 +9,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net6.0/Arraylist.dll",
+            "program": "${workspaceFolder}/bin/Debug/net6.0/ödev2.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "integratedTerminal",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {
