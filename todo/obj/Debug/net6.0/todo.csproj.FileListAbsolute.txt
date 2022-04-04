@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\todo\obj\Debug\net6.0\todo.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\todo\obj\Debug\net6.0\todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\todo\obj\Debug\net6.0\todo.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\todo\obj\Debug\net6.0\todo.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\todo\obj\Debug\net6.0\todo.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\todo\bin\Debug\net6.0\todo.exe
+C:\Users\Nugget\Documents\GitHub\c1011\todo\bin\Debug\net6.0\todo.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\todo\bin\Debug\net6.0\todo.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\todo\bin\Debug\net6.0\todo.dll
+C:\Users\Nugget\Documents\GitHub\c1011\todo\bin\Debug\net6.0\ref\todo.dll
+C:\Users\Nugget\Documents\GitHub\c1011\todo\bin\Debug\net6.0\todo.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\todo\obj\Debug\net6.0\todo.dll
+C:\Users\Nugget\Documents\GitHub\c1011\todo\obj\Debug\net6.0\ref\todo.dll
+C:\Users\Nugget\Documents\GitHub\c1011\todo\obj\Debug\net6.0\todo.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\todo\obj\Debug\net6.0\todo.genruntimeconfig.cache
