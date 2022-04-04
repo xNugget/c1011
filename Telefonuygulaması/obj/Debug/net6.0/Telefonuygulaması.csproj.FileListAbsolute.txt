@@ -1,0 +1,15 @@
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\obj\Debug\net6.0\Telefonuygulaması.csproj.AssemblyReference.cache
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\obj\Debug\net6.0\Telefonuygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\obj\Debug\net6.0\Telefonuygulaması.AssemblyInfoInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\obj\Debug\net6.0\Telefonuygulaması.AssemblyInfo.cs
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\obj\Debug\net6.0\Telefonuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\bin\Debug\net6.0\Telefonuygulaması.exe
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\bin\Debug\net6.0\Telefonuygulaması.deps.json
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\bin\Debug\net6.0\Telefonuygulaması.runtimeconfig.json
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\bin\Debug\net6.0\Telefonuygulaması.dll
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\bin\Debug\net6.0\ref\Telefonuygulaması.dll
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\bin\Debug\net6.0\Telefonuygulaması.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\obj\Debug\net6.0\Telefonuygulaması.dll
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\obj\Debug\net6.0\ref\Telefonuygulaması.dll
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\obj\Debug\net6.0\Telefonuygulaması.pdb
+C:\Users\Nugget\Documents\GitHub\c1011\Telefonuygulaması\obj\Debug\net6.0\Telefonuygulaması.genruntimeconfig.cache
